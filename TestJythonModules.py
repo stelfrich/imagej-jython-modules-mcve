@@ -1,3 +1,3 @@
-import mathLib.someTools;
+import someLib.someTools;
 
 someTools.someMathFunction();
